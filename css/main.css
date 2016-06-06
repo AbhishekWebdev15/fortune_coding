@@ -1,0 +1,53 @@
+body {
+  background-color: #f2f2f2;
+}
+
+nav ul li a:hover {
+  text-decoration: none;
+}
+
+#header {
+  background-color: #fff;
+}
+
+img#logo {
+  height: 160px;
+  width: 190px;
+  display: block;
+  margin: 0 auto;
+}
+
+nav ul li {
+  display: inline-block;
+  padding:10px;
+}
+
+nav ul ul {
+  display:none;
+}
+
+nav ul li.dropdown:hover ul {
+  display: block;
+}
+
+.dropdown ul {
+  position:absolute;
+  left:6px;
+  background-color:#fff;
+}
+
+.dropdown ul li a {
+  position: relative;
+  left:-15px;
+}
+
+button {
+  border:0;
+  padding:5px 10px;
+  color:#fff;
+  border-radius:15px;
+}
+
+.button-blue {
+  background-color: #99f;
+}

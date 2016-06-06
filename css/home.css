@@ -1,0 +1,50 @@
+#slider {
+  background-color: #456;
+  height: 250px;
+  width: auto;
+}
+
+#phone-snapshot img {
+  height: 620px;
+  display: block;
+}
+
+div#features {
+  padding-top: 70px;
+  text-align: center;
+  background-color:#fff;
+  height: 320px;
+  margin-bottom: 20px;
+}
+
+div#features i {
+  color:#fff;
+}
+
+div#product-intro {
+  height: 630px;
+  display: block;
+  background-color: #f4f5f7;
+}
+
+div#product-intro div:nth-child(2) {
+  margin-top: 100px;
+}
+
+div#features2 {
+  height: 400px;
+  background-image: url('../img/shark.jpg');
+  display: block;
+  z-index: 100;
+  color:#fff;
+}
+
+div#feat2black {
+  background-color: rgba(0, 0, 0, 0.3);
+  padding-top: 50px;
+  padding-bottom: 40px;
+}
+
+div#feat2green {
+  padding-top: 120px;
+}
