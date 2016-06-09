@@ -48,3 +48,23 @@ div#feat2black {
 div#feat2green {
   padding-top: 120px;
 }
+
+#more_intro {
+  padding-top: 70px;
+  height: 600px;
+  background-color: #fff;
+}
+
+#more_intro img {
+  height: 500px;
+  margin-left: 50px;
+}
+
+#progress {
+  overflow: hidden;
+  margin-top: 40px;
+}
+
+#progress h4 {
+  text-align: center;
+}
